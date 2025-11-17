@@ -43,7 +43,5 @@ Decimal support
 
 Dynamic expression display
 
-Here is the website link : https://react-calculator-neel.netlify.app/
 
 
-**
